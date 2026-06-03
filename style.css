@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    color: antiquewhit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: yellow;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
